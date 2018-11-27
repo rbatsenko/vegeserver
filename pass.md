@@ -1,0 +1,3 @@
+MongoDB:
+vegeadmin
+fRA4NDBa6YWyrcdg
